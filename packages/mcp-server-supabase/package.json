@@ -41,7 +41,7 @@
     "@supabase/mcp-utils": "0.2.1",
     "common-tags": "^1.8.2",
     "graphql": "^16.11.0",
-    "openapi-fetch": "^0.13.5",
+    "openapi-fetch": "^0.14.0",
     "zod": "^3.24.1"
   },
   "devDependencies": {
